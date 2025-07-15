@@ -1,1 +1,1 @@
-# isac0campos
+Esse projeto demonstra um jogo que tem como objetivo de plantar arvores, para jogar é preciso aperta as teclas de setas do teclado para andar para os lados e apertando a tecla espaço vocẽ cria uma semente que depois de 3 segundos vira uma arvore com maças
